@@ -12,6 +12,9 @@ import java.time.LocalDateTime;
 
 import static com.bank.trade.domain.exception.TradeResponseCode.DUPLICATE_TRADE;
 
+/**
+ * 说明，该层需要处理事务和异常，但是本案例中没有用到数据库，就不做事务的处理了。
+ */
 @Service
 public class TradeService {
 
