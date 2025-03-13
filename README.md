@@ -43,7 +43,7 @@ This project is a bank transaction system developed based on Spring Boot, which 
 git clone https://github.com/wilbur-ltf/bank.git
 ```
 2. Open the project in IntelliJ IDEA, and click the button in the upper - right corner as shown in the figure to start the project:
-![img.png](images/img.png)
+![img.png](https://github.com/wilbur-ltf/bank/blob/master/images/img.png)
 
 ## V. Swagger Testing
 ### 1. Access Address
